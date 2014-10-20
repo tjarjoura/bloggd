@@ -30,7 +30,7 @@ Some examples:
 * HTTP, short for Hypertext Transfer Protocol, defines how web browers and web servers should communicate.
 * FTP, short for File Transfer Protocol, defines how ftp clients should request to "download"(which is basically just copying bits) a file(a set of bits) from a server.
 
-That wraps this up. Here's some further reading for those who are interested:
+That wraps this up. Here's some further reading for those who are interested. I don't know your skill level, so some of it is relatively advanced:
 
 [Wikipedia - Internet Protocols](http://en.wikipedia.org/wiki/Internet_protocol_suite#Abstraction_layers)
 [TCP/IP Illustrated](https://leaksource.files.wordpress.com/2014/08/tcp_ip-illustrated-vol-3.pdf) (For those who know how to program)
