@@ -3,7 +3,7 @@ title: My blog.
 email: cghero764@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   This is my blog and you should read it :)
-baseurl: "hero764.github.io/bloggd" # the subpath of your site, e.g. /blog/
+baseurl: "/bloggd" # the subpath of your site, e.g. /blog/
 url: "http://Hero764.github.io" # the base hostname & protocol for your site
 github_username:  hero764
 
