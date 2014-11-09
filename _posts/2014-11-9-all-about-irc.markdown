@@ -24,8 +24,8 @@ The actually protocol provides for a lot more than I've described here, but this
 
 Further reading:
 
-[History of IRC](http://daniel.haxx.se/irchistory.html)
-[RFC 2810 - IRC Architecture](https://tools.ietf.org/html/rfc2810)
-[RFC 2811 - IRC Channel Management](https://tools.ietf.org/html/rfc2811)
-[RFC 2812 - IRC Client Protocol](https://tools.ietf.org/html/rfc2812)
-[RFC 2813 - IRC Server Protocol](https://tools.ietf.org/html/rfc2813)
+* [History of IRC](http://daniel.haxx.se/irchistory.html)
+* [RFC 2810 - IRC Architecture](https://tools.ietf.org/html/rfc2810)
+* [RFC 2811 - IRC Channel Management](https://tools.ietf.org/html/rfc2811)
+* [RFC 2812 - IRC Client Protocol](https://tools.ietf.org/html/rfc2812)
+* [RFC 2813 - IRC Server Protocol](https://tools.ietf.org/html/rfc2813)
